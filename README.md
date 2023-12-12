@@ -27,17 +27,14 @@ Explore more of my projects on my [GitHub Repositories](https://github.com/mdsrq
 
 ## Machine Learning Courses
 
-I'm a lifelong learner and have completed 9 machine learning courses on Coursera. Continuous learning is the key to staying at the forefront of this rapidly evolving field. Some of the courses I've completed include:
+I'm a lifelong learner and have completed **9** machine learning courses on Coursera. Continuous learning is the key to staying at the forefront of this rapidly evolving field. Some of the courses I've completed include:
 
 1. [Neural Networks and Deep Learning](https://www.coursera.org/learn/neural-networks-deep-learning)
 2. [Natural Language Processing with Attention Models](https://www.coursera.org/learn/attention-models-in-nlp)
 3. [Build Better Generative Adversarial Networks (GANs)](https://www.coursera.org/learn/build-better-generative-adversarial-networks-gans)
 4. [Unsupervised Learning, Recommenders, Reinforcement Learning](https://www.coursera.org/learn/unsupervised-learning-recommenders-reinforcement-learning)
-5. [Introduction to Machine Learning in Production](https://www.coursera.org/learn/introduction-to-machine-learning-in-production)
-6. [Sequences, Time Series and Prediction](https://www.coursera.org/learn/tensorflow-sequences-time-series-and-prediction)
-7. [Convolutional Neural Networks](https://www.coursera.org/learn/convolutional-neural-networks)
-8. [Sequence Models](https://www.coursera.org/learn/nlp-sequence-models)
-9. [Build Basic Generative Adversarial Networks (GANs)](https://www.coursera.org/learn/build-basic-generative-adversarial-networks-gans)
+5. [Sequences, Time Series and Prediction](https://www.coursera.org/learn/tensorflow-sequences-time-series-and-prediction)
+...
 
 ## Skills
 
