@@ -1,6 +1,6 @@
 # Mudassar's GitHub Profile
 
-👋 Hi there! I'm Mudassar, a passionate Machine Learning Engineer with expertise in Natural Language Processing (NLP) and Computer Vision. Welcome to my GitHub profile, where I showcase my projects, contributions, and the exciting world of machine learning!
+👋 Hi! Welcome to my GitHub profile, where I showcase my projects, contributions, and the exciting world of machine learning!
 
 ## About Me
 
@@ -21,16 +21,7 @@ One of my notable projects is the **Sign Language Translator**, a deep learning 
 ### Other Notable Projects
 
 - Hotel Room Matcher (NLP)
-  - Embedding vector Manipulation
-  - Optimizing word vector weights for sentence embedding
-  - Multilingual Preprocessor
-  - Multilingual misspellings and irrelevant phrases identification
 - Handwriting Quality Scoring (Computer Vision)
-  - Data imbalance management strategies
-  - Appropriate ojective function selection
-  - Multimodel inputs to CNN model
-  - Dataset Benchmarking (HLP) and labeling quality evaluation
-  - Genetic search to maximize character IoU
 
 Explore more of my projects on my [GitHub Repositories](https://github.com/mdsrqbl).
 
