@@ -2,6 +2,8 @@
 
 👋 Hi! Welcome to my GitHub profile, where I showcase my projects, contributions, and the exciting world of machine learning!
 
+[![Patreon](https://img.shields.io/badge/Patreon-F96854?logo=patreon&logoColor=white)](https://www.patreon.com/join/MudassarIqbal)
+
 ## About Me
 
 I'm Mudassar, a dedicated Machine Learning Engineer with a profound interest in both Artificial Intelligence and Natural Intelligence, including consciousness.
