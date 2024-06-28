@@ -2,7 +2,9 @@
 
 👋 Hi! Welcome to my GitHub profile, where I showcase my projects, contributions, and the exciting world of machine learning!
 
-[![Patreon](https://img.shields.io/badge/Patreon-F96854?logo=patreon&logoColor=white)](https://www.patreon.com/join/MudassarIqbal)
+|**Support Me** ❤️|[![PayPal](https://img.shields.io/badge/PayPal-00457C?logo=paypal&logoColor=white)](https://www.paypal.com/donate/?hosted_button_id=7SNGNSKUQXQW2)|
+|-|-|
+
 
 ## About Me
 
