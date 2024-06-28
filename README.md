@@ -29,7 +29,7 @@ Explore more of my projects on my [GitHub Repositories](https://github.com/mdsrq
 
 I'm a lifelong learner and have completed **9** machine learning courses on Coursera. Continuous learning is the key to staying at the forefront of this rapidly evolving field. 
 
-<details>
+<details open>
 <summary>The courses I've completed include: (click to show)</summary>
 
 1. [Neural Networks and Deep Learning](https://www.coursera.org/learn/neural-networks-deep-learning)
