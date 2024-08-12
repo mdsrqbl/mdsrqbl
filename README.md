@@ -8,7 +8,7 @@
 
 ## About Me
 
-I'm Mudassar, a dedicated Machine Learning Engineer with a profound interest in both Artificial Intelligence and Natural Intelligence, including consciousness.
+I'm Mudassar and my interests are Artificial Intelligence and Consciousness.
 
 I aspire to make a meaningful impact by building utilities that specifically cater to and assist neglected communities. My commitment to accessibility is reflected in projects like the **Sign Language Translator**, a deep learning library designed to enhance communication for diverse communities.
 
